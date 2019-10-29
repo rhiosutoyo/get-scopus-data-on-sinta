@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - GetScopusDataOnSINTA",
+            "request": "launch",
+            "mainClass": "GetScopusDataOnSINTA",
+            "projectName": "get-scopus-data-on-sinta"
+        }
+    ]
+}
